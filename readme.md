@@ -1,4 +1,4 @@
-# Free Government WiFi Locations (Hong Kong)
+# freegovwifi2json
 
 The Hong Kong government provides free wifi hotspots in government buildings and
 parks throughout Hong Kong.
